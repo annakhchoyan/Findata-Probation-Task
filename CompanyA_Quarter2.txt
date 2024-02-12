@@ -1,0 +1,9 @@
+Company: Company A
+Quarter: Q2
+Revenue: $1,800,000
+Expenses: $1,000,000
+Net Income: $800,000
+EPS: $1.60
+Assets: $3,500,000
+Liabilities: $1,400,000
+Equity: $2,100,000

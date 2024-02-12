@@ -1,0 +1,10 @@
+Company: Company B
+Quarter: Q2
+Revenue: $2,300,000
+Expenses: $1,300,000
+Net Income: $1,000,000
+EPS: $2.50
+Assets: $5,000,000
+Liabilities: $2,200,000
+Equity: $2,800,000
+
